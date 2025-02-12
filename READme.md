@@ -56,3 +56,11 @@ Liste des images disponibles localement avec la commande `docker images`.
 ##  Docker Run
 ![DockerRun](image/DockerRun.png)
 Capture d'écran qui  montre l'utilisation des arguments lors de la commande `docker run`.
+
+---
+
+## Docker Stop
+![DockerStop](image/Dockerstop.png)
+Capture d'écran qui montre l'arret du conteneur welcome-to-docker.
+
+
