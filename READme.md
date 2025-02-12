@@ -77,6 +77,12 @@ Capture d'écran qui affichent les images avec leur propriétés.
 
 ---
 
+## Docker New Container
+![DockerNewContainer](image/dockernewcontainer.png)
+ Construction du nouvaeu container.
+
+---
+
 
 
 
