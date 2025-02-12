@@ -71,6 +71,14 @@ Capture d'écran qui récupère une image du dockerhub.
 
 ---
 
+## Docker Img
+![DockerImg](image/dockerimg.png)
+Capture d'écran qui affichent les images avec leur propriétés.
+
+---
+
+
+
 
 
 
