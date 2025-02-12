@@ -83,8 +83,32 @@ Capture d'écran qui affichent les images avec leur propriétés.
 
 ---
 
+## supprimer un conteneur spécifique
+docker rm <nom_du_conteneur>
 
+## supprimer plusieurs conteneurs
+docker rm $(docker ps -a -q)
 
+## supprimer Tous les conteneurs arrêtés
+docker container prune
+
+## Forcer la suppression d'un conteneur actif
+docker rm -f <nom_du_conteneur>
+
+## supprimer Une image spécifique
+docker rmi <nom_de_l_image>
+
+## supprimer plusieurs images
+docker rmi <nom_image_1> <nom_image_2> <nom_image_3>
+
+## supprimer toutes les images inutilisées
+docker image prune -a
+
+## Forcer la suppression d'une image
+docker rmi -f <nom_de_l_image>
+
+## ERREUR
+L'erreur est qu'il y a deux fois supprimer toutes les images non utilisés , la correction est images utilisés
 
 
 
