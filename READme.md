@@ -60,7 +60,17 @@ Capture d'écran qui  montre l'utilisation des arguments lors de la commande `do
 ---
 
 ## Docker Stop
-![DockerStop](image/Dockerstop.png)
+![DockerStop](image/dockerstop.png)
 Capture d'écran qui montre l'arret du conteneur welcome-to-docker.
+
+---
+
+## Docker Pull
+![DockerPull](image/dockerPullImg.png)
+Capture d'écran qui récupère une image du dockerhub.
+
+---
+
+
 
 
